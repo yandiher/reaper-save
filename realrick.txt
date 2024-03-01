@@ -1,0 +1,17 @@
+# MIDI note/CC name map
+39 modulation
+38 palm mute
+37 harmonic
+36 pinch
+35 scrape
+34 wah_wah
+33 unison
+32 chucka
+31 bend
+30 noise
+29 slide
+28 legato
+27 slide d trigger
+26 slide down
+25 slide u trigger
+24 slide up

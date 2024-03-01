@@ -1,0 +1,11 @@
+# MIDI note/CC name map
+35 1
+33 2
+32 ghost
+31 3
+30 slap
+29 4
+27 pick
+26 slide
+25 finger
+24 legato

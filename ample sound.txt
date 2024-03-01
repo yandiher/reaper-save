@@ -1,0 +1,24 @@
+# MIDI note/CC name map
+103 rim hit
+102 low hit
+101 high hit
+96 stroke 4
+95 stroke 3
+94 stroke 2
+93 stroke 1
+92 silent stroke
+91 silent press
+90 slap
+89 scratch
+36 1
+35 2
+34 3
+33 4
+32 5
+31 6
+29 legato
+28 legato slide
+27 slide
+26 palm mute
+25 harmonic
+24 sustain

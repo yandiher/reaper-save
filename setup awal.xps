@@ -1,0 +1,20 @@
+<PresetXMLTree version="2">
+	<Preset Name="setup" GenericType="RNEQ">
+		<PresetHeader>
+			<PluginName>REQ</PluginName>
+			<PluginVersion>9.2.40.6</PluginVersion>
+			<ReadOnly>false</ReadOnly>
+		</PresetHeader>
+		<MessageToShell/>
+		<PresetData Setup="CURRENT">
+			<Parameters Type="RealWorld">1 0 0 92 6.5 1 0 0 351 6.5
+0 0 0 351 0.80000000000000004 0 0 0 2890
+0.80000000000000004 1 0 0 2890 6.5 1 0 0
+10992 6.5 1 0 0 92 6.5 1 0
+0 351 6.5 0 0 0 351 0.80000000000000004 0
+0 0 2890 0.80000000000000004 1 0 0 2890 6.5
+1 0 0 10992 6.5 0 0 * *
+* * * * 0 * </Parameters>
+		</PresetData>
+	</Preset>
+</PresetXMLTree>

@@ -1,0 +1,56 @@
+[Floating MIDI toolbar 1]
+icon_0=toolbar_midi_mode_piano_roll.png
+icon_7=toolbar_misc_duck.png
+icon_8=toolbar_half_minim_note.png
+icon_9=text
+icon_10=text
+icon_11=toolbar_item_select_all.png
+item_0=40042 Mode: Piano Roll
+item_1=40043 Mode: Drum Map
+item_2=40056 Mode: Event List
+item_3=40954 Mode: Notation
+item_4=40450 View: Show events as diamonds (drum mode)
+item_5=40449 View: Show events as rectangles (normal mode)
+item_6=40009 Quantize...
+item_7=40457 Humanize notes...
+item_8=41623 Edit: Set note length to 1/32
+item_9=41003 1
+item_10=41004 3
+item_11=40003 Edit: Select all notes
+title=MIDI 1
+
+[Floating toolbar 1]
+icon_1=toolbar_time_selection_left.png
+icon_5=toolbar_misc_keyboard.png
+icon_6=toolbar_midi_notes_force_snap_scale.png
+icon_7=toolbar_window_tab_folder.png
+icon_8=toolbar_misc_mixer_control.png
+icon_9=toolbar_color_selected.png
+icon_10=toolbar_window_tab_docker_bottom.png
+item_0=41101 Edit me
+item_1=40071 Options: Show snap/grid settings
+item_2=40364 Options: Toggle metronome
+item_3=40029 Edit: Undo
+item_4=40030 Edit: Redo
+item_5=40701 Insert virtual instrument on new track...
+item_6=40214 Insert new MIDI item...
+item_7=50124 Media explorer: Show/hide media explorer
+item_8=_FX44c70da740dbfd0e83d108033f450192e1360f7a Insert FX: VST: Virtual Mix Rack (Slate Digital)
+item_9=40357 Track: Set to custom color...
+item_10=40727 View: Minimize all tracks
+title=Toolbar 1
+
+[Main toolbar]
+icon_2=toolbar_folder_hide.png
+item_0=40025 Open project...
+item_1=40026 Save project
+item_2=40727 View: Minimize all tracks
+item_3=40021 Project settings...
+item_4=40029 Undo
+item_5=40030 Redo
+item_6=40364 Enable metronome
+item_7=40070 Move envelope points with media items
+item_8=40145 Show arrange view grid
+item_9=1135 Enable locking
+title=Main toolbar
+
